@@ -11,6 +11,7 @@ const HeroSectionCon = () => {
     const tl = gsap.timeline();
 
 tl.from(".heading", {
+  delay:1,
   x: -250,
   opacity: 0,
   duration: 0.8,
