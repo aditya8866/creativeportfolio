@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* index.css */
+body {
+    background-color: black;
+  cursor: none;
+  overflow-x: hidden;
+
+}
+
+
+/* prevent scroll issues */
+html, body {
+  overflow-x: hidden;
+}
+@font-face {
+    font-family: navfont;
+    src: url(/fonts/i7dPIFZifjKcF5UAWdDRYEF8RQ.woff2);
+}
+
+/* 
+@font-face {
+    font-family: para ;
+    src: url(/fonts/e4af272ccee01ff0-s.p.woff2);
+} */
+
+@font-face {
+    font-family: heroheading;
+    src: url(/fonts/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2);
+}
+
+@font-face {
+    font-family: para;
+    src: url(/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2);
+}
+
+    
